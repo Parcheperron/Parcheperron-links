@@ -4,7 +4,7 @@
 const config = {
   sedes: [
     { nombre: "San Antonio", whatsapp: null, maps: null, proximamente: true },
-    { nombre: "Marinilla", whatsapp: null, maps: null },
+    { nombre: "Marinilla", 573105076511: null, maps: null },
     { nombre: "Porvenir", whatsapp: null, maps: null },
     { nombre: "La Ceja 1", detalle: "Ciudad Jardín", whatsapp: null, maps: null },
     { nombre: "La Ceja 2", detalle: "La Cruz", whatsapp: null, maps: null }
