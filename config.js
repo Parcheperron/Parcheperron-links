@@ -9,9 +9,9 @@ const config = {
     { nombre: "La Ceja 1", detalle: "Ciudad Jardín", whatsapp: "https://wa.me/5731089503875", maps: "https://maps.app.goo.gl/reVf7k64zeXamdhh7" },
     { nombre: "La Ceja 2", detalle: "La Cruz", whatsapp: "https://wa.me/573114323421", maps: "https://maps.app.goo.gl/yXsGKJtoMjYwg4Lr7" }
   ],
-  eventos: null,
+  eventos: "https://wa.me/573114323428",
   instagram: "https://instagram.com/parcheperron",
   tiktok: null,
-  empleo: null,
-  opiniones: null
+  empleo: "https://wa.me/573114323428",
+  opiniones: "https://wa.me/573114323428"
 };
